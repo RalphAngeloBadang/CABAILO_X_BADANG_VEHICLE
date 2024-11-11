@@ -90,6 +90,7 @@ class Program
         float cargoWeight = 3.0f;
         Console.WriteLine($"Truck (ID: {truck.VehicleId}, Model: {truck.Make} {truck.Model}) for {distance} km with {cargoWeight} tons cargo: {truck.CalculateFuelConsumption(distance, cargoWeight):0.00} liters");
 
+
         Console.ReadKey();
     }
 }
