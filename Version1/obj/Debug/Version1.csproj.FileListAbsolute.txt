@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version1\bin\Debug\Version1.exe.config
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version1\bin\Debug\Version1.exe
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version1\bin\Debug\Version1.pdb
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version1\obj\Debug\Version1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version1\obj\Debug\Version1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version1\obj\Debug\Version1.exe
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version1\obj\Debug\Version1.pdb
