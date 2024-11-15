@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\bin\Debug\net8.0\Version3.exe
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\bin\Debug\net8.0\Version3.deps.json
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\bin\Debug\net8.0\Version3.runtimeconfig.json
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\bin\Debug\net8.0\Version3.dll
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\bin\Debug\net8.0\Version3.pdb
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\obj\Debug\net8.0\Version3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\obj\Debug\net8.0\Version3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\obj\Debug\net8.0\Version3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\obj\Debug\net8.0\Version3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\obj\Debug\net8.0\Version3.sourcelink.json
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\obj\Debug\net8.0\Version3.dll
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\obj\Debug\net8.0\refint\Version3.dll
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\obj\Debug\net8.0\Version3.pdb
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\obj\Debug\net8.0\Version3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CABAILO_X_BADANG_VEHICLE\Version3\obj\Debug\net8.0\ref\Version3.dll
